@@ -1,9 +1,9 @@
 {
-  "description": "Simply add your username to topbar panel aggregate menu",
-  "uuid": "add-username-toppanel@brendaw.com",
+  "description": "A small extension to add your Linux username to top right GNOME Shell top panel",
+  "uuid": "topbar-username@meokisama.github.io",
   "name": "Add Username to Top Panel",
   "original-authors": [
-      "williambrendaw@protonmail.com"
+      "meoki@gsu.vn"
     ],
   "shell-version": [
       "3.12",
@@ -29,6 +29,6 @@
       "3.31",
       "3.32"
    ],
-   "url": "https://github.com/brendaw/add-username-toppanel",
+   "url": "https://github.com/meokisama/topbarname",
    "version": 1
 }
